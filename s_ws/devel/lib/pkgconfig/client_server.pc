@@ -1,0 +1,8 @@
+prefix=/home/ayaali/s_ws/devel
+
+Name: client_server
+Description: Description of client_server
+Version: 0.0.0
+Cflags: -I/home/ayaali/s_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
